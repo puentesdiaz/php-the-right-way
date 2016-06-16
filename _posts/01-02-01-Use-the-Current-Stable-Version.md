@@ -1,5 +1,5 @@
 ---
-title:   Use the Current Stable Version (7.0)
+title:   Usa la Versión Actual Estable (7.0)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
